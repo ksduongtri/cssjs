@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/bh8wKM' target='_blank'><img src='https://lh3.googleusercontent.com/-jRYMmWStCts/V_ywd8yptPI/AAAAAAAAAPg/BPATNr2kfeMT7tFV2xGYIKLb6QuFWryuwCJoC/w530-h240-p-rw/ruou-can-tay-nguyen.jpg'/><br/>Rượu Cần Tây Nguyên Thứ Thiệt</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/bh8wKM' target='_blank'><img src='https://lh3.googleusercontent.com/-jRYMmWStCts/V_ywd8yptPI/AAAAAAAAAPg/BPATNr2kfeMT7tFV2xGYIKLb6QuFWryuwCJoC/w530-h240-p-rw/ruou-can-tay-nguyen.jpg'/><br/>Rượu Cần Tây Nguyên Thứ Thiệt</a>. Đặc Sản Ban Mê. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
